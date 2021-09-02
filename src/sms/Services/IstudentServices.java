@@ -27,4 +27,5 @@ public interface IstudentServices extends Remote {
     public List<Student> stList() throws RemoteException;
     
     public List<Student> findAll(Student st) throws RemoteException;
+
 }

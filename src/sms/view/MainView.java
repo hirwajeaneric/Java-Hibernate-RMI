@@ -116,9 +116,11 @@ public class MainView extends javax.swing.JFrame {
 
     private void staffRegistrationMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_staffRegistrationMenuItemActionPerformed
         // TODO add your handling code here:
+        /*
         StaffRegistration staff = new StaffRegistration();
         desktopPane.add(staff);
         staff.show();
+        */
     }//GEN-LAST:event_staffRegistrationMenuItemActionPerformed
 
     /**
