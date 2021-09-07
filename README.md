@@ -1,2 +1,2 @@
-# 22026-StudentManagementSystems
- This is another sample Jdbc project
+# Java-Hibernate-RMI
+ This is an RMI HIBERNATE Project.
